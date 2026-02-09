@@ -68,16 +68,10 @@ https://5d94523502c2d.streamlock.net/home/mystream/chunklist.m3u8
 https://live.i-news.tv/hls/2/stream.m3u8
 #EXTINF:-1 tvg-id="MBCAction.ae" tvg-logo=" " ,Move action
 https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo=" " ,Movies Thriller 
+#EXTINF:-1 tvg-id="  " tvg-logo=" " ,Movies Thriller 
 http://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
 #EXTINF:-1 tvg-id="MixHollywood.eg@SD" tvg-logo="https://i.imgur.com/1ENdbZn.png" ,Mix 
 https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8
-#EXTINF:-1 tvg-id="MBCAction.ae" tvg-logo=" " ,Move action 
-http://nextcdn.net/out/v1/f6d718e841f8shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
-#EXTINF:-1 tvg-id="MBCAction.ae" tvg-logo=" " ,Move action 
-http://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
-#EXTINF:-1 tvg-id="MBCAction.ae" tvg-logo=" " ,Move Thriller 
-http://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/5e3ad6a88b.png" ,أبو ظبي الرياضية 1
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_sports_1/abudhabi_sports_1_hls_nd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/5e3ad6b210.png" ,أبو ظبي الرياضية 2
