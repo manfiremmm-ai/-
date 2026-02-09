@@ -227,3 +227,7 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-2/51db9d7fa48a27d051f1eec
 https://live.eighty-eight.tv:7443/mbc2-1/tracks-v1a1/mono.ts.m3u8?amp%3Bautoplay=false&amp%3Bmuted=false&amp%3Bremote=no_check_ip&token=2414a35966a9efca3d92d133e86dadb41110e705-dd08b73868fb0685a43e95303f3af350-1768079072-1768068272
 #EXTINF:-1,MBC MAX
 https://shd-gcp-live.akamaized.net/live/bitmovin-mbc-max/b628d2bbaee0431a17859963edf2975f/index.mpd
+#EXTINF:-1 tvg-id="MBCAction.ae" tvg-logo=" " ,Move action 
+http://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
+#EXTINF:-1 tvg-id="MBCAction.ae" tvg-logo=" " ,Move Thriller 
+http://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
