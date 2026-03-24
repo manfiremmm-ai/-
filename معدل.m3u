@@ -143,8 +143,7 @@ https://ghaasiflu.online/Dijlah/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="I-NEWS",I-NEWS
 https://live.i-news.tv/hls/0/stream.m3u8
 #EXTINF:-1 tvg-id="Al Ahad TV",Al Ahad TV
-http://stream.shabakaty.com:6010/res/news/ch1/ch1_720.m3u8
-
+https://alahadlive.com:5443/alahadLive/streams/alahadLiveStream.m3u8
 
 
 
