@@ -39,7 +39,7 @@ https://stream.skynewsarabia.com/hls/sna.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://almanar.com.lb/framework/assets/images/manar-logo.png" ,المنار
 https://edge.fastpublish.me/live/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/8d1Srb9/alalam.jpg" , العالم الإيرانية
-https://live2.alalam.ir/alalam.m3u8
+http://stream.shabakaty.com:6010/res/news/ch41/ch41_720.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Fmvtnr7/dw-ar.png" , صوت ألمانيا
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/5KW5f2K/france24ar.png" , فرنسا 24
